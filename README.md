@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   [Solution URL](https://www.frontendmentor.io/solutions/github-user-search-app-with-reactjs-css-grid-and-flexbox-_OmIONsNL4)
 -   [Live Site URL](https://mgalvizo.github.io/github-user-search-app/)
 
 ## My process
