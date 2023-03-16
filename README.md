@@ -31,7 +31,6 @@ Users should be able to:
 #### Mobile
 
 ![](./screenshots/mobile-light.png)
-
 ![](./screenshots/mobile-dark.png)
 
 #### Tablet
